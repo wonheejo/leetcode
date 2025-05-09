@@ -1,3 +1,6 @@
+# I believe there is a more efficient way to get this done using Heap's algorithm
+# Will post a solution using heaps algorithm next time
+
 class Solution(object):
     def permute(self, nums):
         # Initialize new array to store permutation combinations
